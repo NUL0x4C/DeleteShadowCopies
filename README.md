@@ -24,3 +24,7 @@ Example:
 <br>
 
 ### Based On [vshadow](https://github.com/microsoft/Windows-classic-samples/blob/main/Samples/Win7Samples/winbase/vss/vshadow/shadow.cpp)
+
+## Important Note
+
+For educational purposes only. Don't use this code to pursue criminal activity. It should only be be used for ... ransomware simulations, I guess.
