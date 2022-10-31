@@ -20,3 +20,7 @@ Example:
 
 ## Demo (Deleting):
 ![poc2](https://user-images.githubusercontent.com/111295429/198935994-48041574-4e6b-4a99-b1e0-a6bdfc552a80.png)
+
+<br>
+
+### Based On [vshadow](https://github.com/microsoft/Windows-classic-samples/blob/main/Samples/Win7Samples/winbase/vss/vshadow/shadow.cpp)
